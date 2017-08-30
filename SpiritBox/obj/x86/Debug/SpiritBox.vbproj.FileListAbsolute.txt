@@ -1,0 +1,42 @@
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\bin\Debug\SpiritBox.exe
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\bin\Debug\SpiritBox.pdb
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\bin\Debug\SpiritBox.xml
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\SpiritBox.MainForm.resources
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\SpiritBox.Resources.resources
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\SpiritBox.exe
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\SpiritBox.xml
+C:\Documents and Settings\moe\Local Settings\Application Data\Temporary Projects\SpiritBox\obj\x86\Debug\SpiritBox.pdb
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.exe
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.xml
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.pdb
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\bin\Debug\SpiritBox.exe
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\bin\Debug\SpiritBox.pdb
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\bin\Debug\SpiritBox.xml
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.MainForm.resources
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.Resources.resources
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\moe\my documents\visual studio 2010\Projects\SpiritBox\SpiritBox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.exe
+E:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.pdb
+E:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.xml
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.MainForm.resources
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.Resources.resources
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.exe
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.xml
+E:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.pdb
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.exe
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.xml
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.pdb
+F:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.exe
+F:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.pdb
+F:\Project\SpiritBox\SpiritBox\bin\Debug\OuijaBox.xml
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.MainForm.resources
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\OuijaBox.Resources.resources
+F:\Project\SpiritBox\SpiritBox\obj\x86\Debug\SpiritBox.vbproj.GenerateResource.Cache
